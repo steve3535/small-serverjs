@@ -1,0 +1,23 @@
+{
+  "name": "hello-world",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Demo app for docker training in ACC by Steve",
+  "main": "hello-server3.js",
+  "author": "Kwakou-Steve stefimeister@gmail.com",
+  "license": "You'd have to be mad to use this in production :-D",
+  "dependencies": {
+    "wordwrap": "",
+    "amdefine": "",
+    "camelcase": "",
+    "optimist": "",
+    "swig": "",
+    "uglify-js": "",
+    "window-size": "",
+    "yargs": "",
+    "decamelize": "",
+    "async": "",
+    "source-map": "",
+    "uglify-to-browserify": ""
+  }
+}
